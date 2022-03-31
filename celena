@@ -1,0 +1,27 @@
+!DOCTYPE html>
+<html lang= "PT-Br">
+    <head>
+        <title>CelenaLima_SITE  </title>
+        <link rel="stylesheet" href="meuestilo.css">
+    </head> 
+    <body >
+        
+       <hr> <h1 style="color:red ; text-align: center">Bem vindo ao mundo da musica</h1><hr>
+       <hr> <h2 style="color:black; text-align: justify">Aqui voce escuta seus artistas favoritos e seus maiores hits! Aproveite para cantar junto suas musicas favoritas acompanhando as letras em tempo real sem se preocupar com interrupçoes!</h2>
+
+        <br>
+        <h2 style="color:white; text-align:center;font-size: 60px">Hits do Momento</h2>
+          <img src="https://images.app.goo.gl/qjkPJjMJF9zkcTmZ8" style="margin-right: 300px">
+        <br>
+        <h3 style="color:blue;font-size: 90%; text-align: center">Escute a qualquer hora, em qualquer lugar!</h3>
+          <h4>Nossa plataforma te da a opçao de ouvir musica sem anuncios a qualquer momento do dia, alem da variedade de opçoes. Do sertanejo ao pop, temos para todos os gostos </h4>
+          <br>
+          <br>
+          <br>
+         <h4>Ola usuario</h4>
+         Seu novo jeito de escutar suas velhas lembranças
+    </body>
+</html>
+
+h4{color: red}
+body{background-color: grey}
